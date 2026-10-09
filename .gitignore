@@ -1,0 +1,13 @@
+# Sensitive configuration
+.env
+.env.*
+!.env.example
+
+# Dependencies
+vendor/
+node_modules/
+
+# Local and temporary files
+*.log
+.DS_Store
+Thumbs.db
