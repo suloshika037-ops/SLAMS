@@ -39,3 +39,20 @@ SLAMS is a web-based system developed as an individual academic project for mana
 HNDIT Individual Academic Project – SLIATE
 
 **Note:** Configure your own local database credentials before running the project. Do not publish passwords or sensitive data.
+
+## Screenshots
+
+### Login Page
+![SLAMS Login Page](screenshots/login.jpeg)
+
+### Admin Dashboard
+![SLAMS Admin Dashboard](screenshots/dashboard.jpeg)
+
+### Customer Management
+![SLAMS Customer Management](screenshots/customers.jpeg)
+
+### Loan Management
+![SLAMS Loan Management](screenshots/loans.jpeg)
+
+### Reports & Analytics
+![SLAMS Reports and Analytics](screenshots/reports.jpeg)
